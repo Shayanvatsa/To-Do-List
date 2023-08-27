@@ -47,7 +47,7 @@ The task's description will be visually marked as done.
 Contributions are welcome! Here's how you can contribute:
 
 Fork the repository.
-Create a new branch: `git checkout -b feature/your-feature-name`.
-Make your changes and commit them: `git commit -m "Add your message here"`.
-Push to the branch: `git push origin feature/your-feature-name`.
+Create a new branch: git checkout -b feature/your-feature-name.
+Make your changes and commit them: git commit -m "Add your message here".
+Push to the branch: git push origin feature/your-feature-name.
 Open a pull request.
